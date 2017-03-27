@@ -1,0 +1,17 @@
+.form1 p{
+	margin-bottom:20px;
+	margin-left:20px;
+}
+.form1 span{
+	  display: inline-block;
+    width: 100px;
+    text-align:top;
+  }
+  .text textarea{
+	margin-left:104px;
+	width:166px;
+  }
+  .submit input{
+  	margin-left:105px;
+  }
+ 
